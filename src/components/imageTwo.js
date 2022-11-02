@@ -1,9 +1,9 @@
-import Sunset from '../img/mainBackground.jpg'
+import backDrop from '../img/cityimageblurry.jpeg'
 
 import { Parallax } from 'react-parallax';
 
-const ImageOne = () => (
-    <Parallax className='image' bgImage={ Sunset } bgImageAlt="la jolla cove" strength={800}>
+const ImageTwo = () => (
+    <Parallax className='image'  bgImage={ backDrop } bgImageAlt="la jolla cove" strength={800}>
        <div className='content'>
             <span className='img-text'><h1>William W. Wright</h1></span> 
             <h4>Experience Architect // Web Developer</h4>
@@ -12,4 +12,4 @@ const ImageOne = () => (
 );
 
 
-export default ImageOne;
+export default ImageTwo;
