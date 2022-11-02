@@ -14,6 +14,10 @@ code {
 
 .image {
   position: relative;
+  background-position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+	background-attachment: fixed; 
   height: 100vh;
 }
 
@@ -41,4 +45,36 @@ code {
   font-size: 25px;
   letter-spacing: 5px;
   position: relative;
+}
+
+/* about section  */
+
+.section {
+	text-align: center;
+	padding: 50px 80px;
+	background-color: #0B0C10;
+}
+
+.section-about h2 {
+	color: #66FCF1;
+	text-align: center;
+	font-weight: bold;
+  font-size: 25px;
+}
+
+.section-about p {
+	text-align: center;
+	color: #C5C6C7;
+  line-height: 30px;
+}
+
+.section-about a {
+	color: #66FCF1;
+	text-decoration: none;
+}
+
+.section-about a:hover {
+	background-color: white;
+	color: black;
+	text-decoration: underline;
 }
