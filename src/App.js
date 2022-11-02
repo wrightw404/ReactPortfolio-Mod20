@@ -1,10 +1,13 @@
+import ImageOne from "./components/imageOne.js";
+
 
 function App() {
   return (
     <div>
-     Hello, Bill 
+     <ImageOne/>
     </div>
   );
 }
 
 export default App;
+ 
