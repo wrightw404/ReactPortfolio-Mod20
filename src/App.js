@@ -1,6 +1,6 @@
-import ImageOne from "./components/imageOne.js";
-import ImageTwo from "./components/imageTwo.js";
-import AboutSection from "./components/aboutSection.js";
+import ImageOne from "./components/parallaxImg/imageOne.js";
+import ImageTwo from "./components/parallaxImg/imageTwo.js";
+import AboutSection from "./components/sections/aboutSection.js";
 
 
 function App() {

@@ -1,4 +1,4 @@
-import Sunset from '../img/mainBackground.jpg'
+import Sunset from '../../assets/img/mainBackground.jpg'
 
 import { Parallax } from 'react-parallax';
 

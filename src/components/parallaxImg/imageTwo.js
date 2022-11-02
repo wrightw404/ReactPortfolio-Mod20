@@ -1,4 +1,4 @@
-import backDrop from '../img/cityimageblurry.jpeg'
+import backDrop from '../../assets/img/cityimageblurry.jpeg'
 
 import { Parallax } from 'react-parallax';
 
