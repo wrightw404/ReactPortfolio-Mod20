@@ -69,14 +69,9 @@ nav a:active {
 	background-color: black;
 }
 
+/* end of navbar */
 
-
-
-
-
-
-
-
+/* parallax images */
 
 .image {
   position: relative;
@@ -84,7 +79,7 @@ nav a:active {
   background-size: cover;
   background-repeat: no-repeat;
 	background-attachment: fixed; 
-  height: 100vh;
+  
 }
 
 .image-two {
@@ -98,6 +93,9 @@ nav a:active {
 .image-four {
   max-height: 300px;
 }
+
+
+/* home image text */
 
 .content {
   display: flex;
@@ -183,6 +181,8 @@ nav a:active {
   position: relative;
 }
 
+/* resume */
+
 .section-resume h2 {
 	color: #66FCF1;
 	font-weight: bold;
@@ -228,6 +228,8 @@ nav a:active {
 	float: right;
 }
 
+/* projects */
+
 .section-projects .row {
 	display: flex;
 	flex-wrap: wrap;
@@ -261,8 +263,6 @@ nav a:active {
 	transform: scale(1.1);
 }
 
-/*start of zoom*/
-
 .section-projects h2 {
 	color: #66FCF1;
 	font-weight: bold;
@@ -281,6 +281,8 @@ nav a:active {
 	color: black;
 	text-decoration: underline;
 }
+
+/* contact social section */
 
 .section-contact h2 {
 	color: #66FCF1;
@@ -332,14 +334,6 @@ nav a:active {
 	background: none;
 }
 
-/* .contact-title h4 {
-	color: #66FCF1;
-	text-align: center;
-	margin-top: -150px;
-	position: absolute;
-	padding-left: 125px;
-} */
-
 .contact-form {
   display: flex;
   align-items: center;
@@ -384,6 +378,7 @@ form .submit:hover {
 	cursor: pointer;
 }
 
+/* footer */
 
 .footer {
 	background-color: #66FCF1;
