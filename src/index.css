@@ -188,7 +188,7 @@ code {
 	max-height: 200px;
 	max-width: 200px;
 	border-radius: 10%;
-	box-shadow: 3px 5px rgba(2,2,2,0.8);
+	box-shadow: 3px 5px rgba(25, 234, 238, 0.945);
 }
 
 .section-projects .popup:hover {
@@ -310,4 +310,59 @@ form .submit:hover {
 	background-color: rgba(2,2,2,0.7);
 	color: #66fcf1;
 	cursor: pointer;
+}
+
+
+.footer {
+	background-color: #66FCF1;
+	color: black;
+	text-align: center;
+	padding: 10px 0px;
+	width: 100%;
+	opacity: 0.9;
+	font-size: 18px;
+	float: right;
+}
+
+.footer h5 {
+	font-size: 18px;
+	text-align: center;
+	
+}
+
+.footer ul {
+	list-style: none;
+	float: left;
+}
+
+.footer::after {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+.footer ul li {
+	display: block;
+	margin: 0px 50px;
+	font-size: 14px;
+}
+
+.footer a {
+	text-decoration: none;
+	color: black;
+}
+
+.footer a:hover {
+	background-color: black;
+	color: #66FCF1;
+	text-decoration: underline;
+}
+
+.footer img {
+	height: 70px;
+	float: right; 
+	width: auto;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 0px;
 }

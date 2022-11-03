@@ -7,6 +7,7 @@ import AboutSection from "./components/sections/aboutSection.js";
 import ResumeSection from "./components/sections/resumeSection.js";
 import ProjectSection from "./components/sections/projectSection.js";
 import ContactLinkSection from "./components/sections/contactLinkSection.js";
+import FooterSection from "./components/sections/footerSection.js";
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
      <ImageFour/>
      <ContactLinkSection/>
      <ImageFive/>
+     <FooterSection/>
     </div>
   );
 }

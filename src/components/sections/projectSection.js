@@ -17,7 +17,7 @@ const ProjectSection = () => {
                     
                     <a href="https://drive.google.com/file/d/1zrHqnVYQwnl957N1oOgftZMymtRaFybG/preview" target="_blank" rel="noreferrer"> <img className="popup" src={noSQL} alt="voter registration project"></img> </a>
                     <p className="summary">Check out my social network web application
-                    <a className="summary" href='https://github.com/wrightw404/socialNetwork-nosql'>GitHub Repository</a>
+                    <a className="repo" href='https://github.com/wrightw404/socialNetwork-nosql'>GitHub Repository</a>
                     </p>
                         
                     
@@ -34,7 +34,7 @@ const ProjectSection = () => {
                     <a href="https://beenthereatethat.herokuapp.com/" target="_blank" rel="noreferrer"><img className="popup" src={btat}alt="Been There Ate That">
                         </img></a>
                         <p className="summary">Been There Ate That!
-                        <a className="summary" href='https://github.com/ddangeles/BeenThere-AteThat'>GitHub Repository</a>
+                        <a className="repo" href='https://github.com/ddangeles/BeenThere-AteThat'>GitHub Repository</a>
                         </p>
                     
                   <a href={style} rel="noreferrer" target="_blank"><img className="popup" src={style} alt="portfolio project"></img></a>
