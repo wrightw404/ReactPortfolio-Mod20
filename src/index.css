@@ -271,12 +271,12 @@ nav a:active {
 	color: #66FCF1;
 }
 
-.section-projects a {
+.section-projects .repo  {
 	color: #C5C6C7;
 	text-decoration: none;
 }
 
-.section-projects a:hover {
+.section-projects .repo:hover {
 	background-color: #66FCF1;
 	color: black;
 	text-decoration: underline;
