@@ -21,6 +21,10 @@ code {
   height: 100vh;
 }
 
+.image-two {
+  max-height: 400px;
+}
+
 .content {
   display: flex;
   align-items: center;
@@ -77,4 +81,72 @@ code {
 	background-color: white;
 	color: black;
 	text-decoration: underline;
+}
+
+.ptext {
+	position: absolute;
+	top: 30%;
+	width: 100%;
+	text-align: center;
+	color: #66FCF1;
+	font-size: 47px;
+	letter-spacing: 5px;
+	font-weight: bold;
+	line-height: 50px;
+}
+
+
+.ptext .border {
+	color: #45A293;
+  top: 40%;
+}
+
+.ptext p {
+	background: rgba(2,2,2,0.3);
+  justify-content: center;
+}
+
+.section-resume h2 {
+	color: #66FCF1;
+	font-weight: bold;
+}
+
+.section-resume h5 a {
+	color: #66FCF1;
+	text-decoration: none;
+}
+
+.section-resume a:hover {
+	background-color: #66FCF1;
+	color: black;
+	text-decoration: underline;
+}
+
+.resume h3 {
+	text-align: left;
+	color: #66FCF1;
+	font-size: 20px;
+}
+
+.resume ul {
+	color: #C5C6C7;
+	list-style: circle;
+}
+
+.resume li {
+	text-align: left;
+	color: #C5C6C7;
+}
+
+.resume h4 {
+	font-size: 15px; 
+	color: #C5C6C7;
+	text-align: left;
+	text-decoration: underline;
+}
+
+.section-resume .propic img {
+	max-height: 400px;
+	border-radius: 50%;
+	float: right;
 }
