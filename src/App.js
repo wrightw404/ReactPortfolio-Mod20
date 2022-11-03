@@ -5,6 +5,7 @@ import ImageFour from "./components/parallaxImg/ImageFour.js";
 import AboutSection from "./components/sections/aboutSection.js";
 import ResumeSection from "./components/sections/resumeSection.js";
 import ProjectSection from "./components/sections/projectSection.js";
+import ContactLinkSection from "./components/sections/contactLinkSection.js";
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
      <ImageThree/>
      <ProjectSection/>
      <ImageFour/>
+     <ContactLinkSection/>
      <ImageOne/>
     </div>
   );

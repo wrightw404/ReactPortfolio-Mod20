@@ -29,6 +29,10 @@ code {
   max-height: 400px;
 }
 
+.image-four {
+  max-height: 400px;
+}
+
 .content {
   display: flex;
   align-items: center;
@@ -207,4 +211,32 @@ code {
 	background-color: #66FCF1;
 	color: black;
 	text-decoration: underline;
+}
+
+.section-contact h2 {
+	color: #66FCF1;
+}
+
+.section-contact  {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.section-contact p {
+	color: #66FCF1;
+}
+
+.section-contact .in img {
+	max-height: 70px;
+	right: 75%; 
+	border-radius: 50%;
+	padding-top: 20px;
+}
+
+.section-contact .git img {
+	max-height: 70px;
+	right: 75%; 
+	border-radius: 50%;
+	padding-top: 20px;
 }
