@@ -1,5 +1,6 @@
 import ImageOne from "./components/parallaxImg/imageOne.js";
 import ImageTwo from "./components/parallaxImg/imageTwo.js";
+import ImageThree from "./components/parallaxImg/imageThree.js";
 import AboutSection from "./components/sections/aboutSection.js";
 import ResumeSection from "./components/sections/resumeSection.js";
 
@@ -11,7 +12,7 @@ function App() {
      <AboutSection/>
      <ImageTwo/>
      <ResumeSection/>
-     <ImageTwo/>
+     <ImageThree/>
      <ImageOne/>
     </div>
   );

@@ -25,6 +25,10 @@ code {
   max-height: 400px;
 }
 
+.image-three {
+  max-height: 400px;
+}
+
 .content {
   display: flex;
   align-items: center;
