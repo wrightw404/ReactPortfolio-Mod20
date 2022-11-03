@@ -4,7 +4,7 @@ import logo from '../../assets/img/favicon.png';
 const FooterSection = () => {
     return (
         <footer id="foot">
-        <div class="footer">
+        <div className="footer">
                
            <ul>
                <li><b>e-mail</b>: wrightw404@gmail.com</li>
