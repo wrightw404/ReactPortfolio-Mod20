@@ -197,3 +197,14 @@ code {
 .section-projects p {
 	color: #66FCF1;
 }
+
+.section-projects a {
+	color: #C5C6C7;
+	text-decoration: none;
+}
+
+.section-projects a:hover {
+	background-color: #66FCF1;
+	color: black;
+	text-decoration: underline;
+}
