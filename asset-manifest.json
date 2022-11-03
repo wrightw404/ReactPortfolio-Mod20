@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio-Mod20/static/css/main.53edbb44.css",
+    "main.js": "/ReactPortfolio-Mod20/static/js/main.12217cda.js",
+    "static/media/beenthereatethat.png": "/ReactPortfolio-Mod20/static/media/beenthereatethat.29b203255663dd1ddac9.png",
+    "static/media/mainBackground.jpg": "/ReactPortfolio-Mod20/static/media/mainBackground.9076d7ef6a9e574dc33e.jpg",
+    "static/media/favicon.png": "/ReactPortfolio-Mod20/static/media/favicon.78dd4a819dafba4c92f0.png",
+    "static/media/styleSheet.jpg": "/ReactPortfolio-Mod20/static/media/styleSheet.eb1a6db130310ed2c310.jpg",
+    "static/media/noSQL.png": "/ReactPortfolio-Mod20/static/media/noSQL.ecdafe771ac3cfb84690.png",
+    "static/media/fuellogo.png": "/ReactPortfolio-Mod20/static/media/fuellogo.75f58a323aaf23076669.png",
+    "static/media/oldlogo.jpg": "/ReactPortfolio-Mod20/static/media/oldlogo.53bfb0f3d00ba5a80319.jpg",
+    "static/media/Resume.pdf": "/ReactPortfolio-Mod20/static/media/Resume.2a98eb6aaf3395c6c6e0.pdf",
+    "static/media/cityimageblurry.jpeg": "/ReactPortfolio-Mod20/static/media/cityimageblurry.130a4ca6de74c4d62675.jpeg",
+    "index.html": "/ReactPortfolio-Mod20/index.html",
+    "main.53edbb44.css.map": "/ReactPortfolio-Mod20/static/css/main.53edbb44.css.map",
+    "main.12217cda.js.map": "/ReactPortfolio-Mod20/static/js/main.12217cda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53edbb44.css",
+    "static/js/main.12217cda.js"
+  ]
+}
