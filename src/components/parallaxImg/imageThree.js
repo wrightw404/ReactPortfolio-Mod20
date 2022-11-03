@@ -7,7 +7,8 @@ const ImageThree = () => (
        <div className="ptext">
 			<span className="border">
 				
-				<p><i>"Plan your work and work your plan" - Marv Levy</i></p>
+				<p><i>"Plan your work and work your plan"</i></p>
+				<p><i>- Marv Levy</i></p>
 			</span>
 		</div>
     </Parallax>

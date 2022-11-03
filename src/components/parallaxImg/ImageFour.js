@@ -7,7 +7,9 @@ const ImageFour = () => (
        <div className="ptext">
 			<span className="border">
 				
-				<p><i>"Simplicity is the soul of efficiency." - Austin Freeman</i></p>
+				<p><i>"Simplicity is the soul of efficiency."</i></p>
+				<p><i> - Austin Freeman</i></p>
+				
 			</span>
 		</div>
     </Parallax>

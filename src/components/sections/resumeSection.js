@@ -5,12 +5,12 @@ import headshot from '../../assets/img/newheadshot.jpeg';
 const ResumeSection = () => {
     return (
         <div id="go">
-        <section class="section section-resume">
+        <section className="section section-resume">
         <h2>My Resume</h2>
               {/* <h5><a href= { Resume } download='updatedResume.pdf'>Link to PDF Version of Resume</a></h5> */}
               <h5><a href="https://github.com/wrightw404" target="_blank" rel="noreferrer">Link to my GitHub</a></h5>
-          <div class="resume">
-              <div class="propic">
+          <div className="resume">
+              <div className="propic">
                   <img src={headshot} alt="headshot"/>
             </div>
               <h3>Education</h3>

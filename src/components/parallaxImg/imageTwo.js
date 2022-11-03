@@ -7,7 +7,8 @@ const ImageTwo = () => (
        <div className="ptext">
 			<span className="border">
 				
-				<p><i>"When creativity melds together with global issues, I believe you can bring the world together." -Virgil Abloh</i></p>
+				<p><i>"When creativity melds together with global issues, I believe you can bring the world together." </i></p>
+				<p><i>- Virgil Abloh</i></p>
 			</span>
 		</div>
     </Parallax>
