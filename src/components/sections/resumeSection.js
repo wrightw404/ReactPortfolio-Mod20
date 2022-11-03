@@ -8,7 +8,7 @@ const ResumeSection = () => {
         <section class="section section-resume">
         <h2>My Resume</h2>
               {/* <h5><a href= { Resume } download='updatedResume.pdf'>Link to PDF Version of Resume</a></h5> */}
-              <h5><a href="https://github.com/wrightw404">Link to my GitHub</a></h5>
+              <h5><a href="https://github.com/wrightw404" target="_blank" rel="noreferrer">Link to my GitHub</a></h5>
           <div class="resume">
               <div class="propic">
                   <img src={headshot} alt="headshot"/>
@@ -54,7 +54,7 @@ const ResumeSection = () => {
               <h3>Extracurricular</h3>
               <h4>Programming Skills</h4>
                   <ul>
-                      <li>HTML, CSS, Javascript, Ruby, C#, Java, MongoDB, mySQL, noSQL, React.js</li>
+                      <li>HTML, CSS, Javascript, Ruby, C#, Java, MongoDB, mySQL, noSQL, React.js, Express.js</li>
                   </ul>
               <h4>Experience Architecture (XA) Club</h4>
                   <ul>
