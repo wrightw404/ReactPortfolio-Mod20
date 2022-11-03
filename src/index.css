@@ -154,3 +154,46 @@ code {
 	border-radius: 50%;
 	float: right;
 }
+
+.section-projects .row {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 8px;
+}
+
+.section-projects .column {
+	flex: 25%;
+	
+	padding: 0 5px;
+}
+
+.section-projects .row::after{
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.section-projects .column img {
+	margin-top: 20px;
+	margin-right: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	max-height: 200px;
+	max-width: 200px;
+	border-radius: 10%;
+	box-shadow: 3px 5px rgba(2,2,2,0.8);
+}
+
+.section-projects .popup:hover {
+	transform: scale(1.1);
+}
+
+/*start of zoom*/
+
+.section-projects h2 {
+	color: #66FCF1;
+	font-weight: bold;
+}
+.section-projects p {
+	color: #66FCF1;
+}

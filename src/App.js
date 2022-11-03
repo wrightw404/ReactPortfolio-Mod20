@@ -3,6 +3,7 @@ import ImageTwo from "./components/parallaxImg/imageTwo.js";
 import ImageThree from "./components/parallaxImg/imageThree.js";
 import AboutSection from "./components/sections/aboutSection.js";
 import ResumeSection from "./components/sections/resumeSection.js";
+import ProjectSection from "./components/sections/projectSection.js";
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
      <ImageTwo/>
      <ResumeSection/>
      <ImageThree/>
+     <ProjectSection/>
      <ImageOne/>
     </div>
   );

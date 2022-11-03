@@ -1,13 +1,13 @@
 import React from 'react';
 import headshot from '../../assets/img/newheadshot.jpeg';
-import Resume from '../../assets/forms/updatedResume.pdf;'
+//import Resume from '../../assets/forms/updatedResume.pdf;'
 
 const ResumeSection = () => {
     return (
         <div id="go">
         <section class="section section-resume">
         <h2>My Resume</h2>
-              <h5><a href= { Resume } download='updatedResume.pdf'>Link to PDF Version of Resume</a></h5>
+              {/* <h5><a href= { Resume } download='updatedResume.pdf'>Link to PDF Version of Resume</a></h5> */}
               <h5><a href="https://github.com/wrightw404">Link to my GitHub</a></h5>
           <div class="resume">
               <div class="propic">
