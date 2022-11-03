@@ -3,16 +3,14 @@ import logo from '../../assets/img/oldlogo.jpg';
 
 const NavBarSection = () => {
     return (
-        
-	
+
 <header>
-<body id="home"></body>
 	<a href="#home">
-  <img src={logo} alt="logo" class="logo"></img>
+  <img src={logo} alt="logo" className="logo"></img>
 	</a>
-  <div class="nav">
+  <div className="nav">
 			<nav>
-				<ul class="menu">
+				<ul className="menu">
 					<li><a href="#aboutme">About</a></li>
 					<li><a href="#go">Resume</a></li>
 					<li><a href="#test">Projects</a></li>

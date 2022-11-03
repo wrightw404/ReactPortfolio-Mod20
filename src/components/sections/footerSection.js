@@ -11,7 +11,7 @@ const FooterSection = () => {
                <li><b>phone</b>: (716) 504-7412</li>
              </ul>
            
-           <img src={logo} alt="logo" class="logo2"></img>
+           <img src={logo} alt="logo" className="logo2"></img>
            
        </div>
    </footer>

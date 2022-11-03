@@ -5,19 +5,19 @@ import linkedin from '../../assets/img/linkedinlogo.png';
 const ContactLinkSection = () => {
     return (
         <div id="contactme">
-        <section class="section section-contact">
+        <section className="section section-contact">
           
             
-            <div class="in">
+            <div className="in">
                 <a href="https://www.linkedin.com/in/williamwallacewright/" target="_blank" rel="noreferrer">
-                <img class="linked" src={linkedin} alt="linkedin logo"></img>
+                <img className="linked" src={linkedin} alt="linkedin logo"></img>
                 </a>
                 <p> Connect with me on Linkedin! </p>
             </div>
     
-            <div class="git">
+            <div className="git">
                 <a href="https://github.com/wrightw404" target="_blank" rel="noreferrer">
-                <img class="linked" src={github} alt="github logo"></img>
+                <img className="linked" src={github} alt="github logo"></img>
                 </a>
                 <p> Check out my GitHub! </p>
             </div>

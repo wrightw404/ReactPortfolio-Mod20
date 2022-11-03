@@ -17,13 +17,13 @@ const ImageFive = () => (
 			
 		    <form id="contact-form" method="post" action="mailto:wrightw404@gmail.com" encType="text/plain">
 			
-			<input name="name" type="text" class="form-control" placeholder="Your Name" required></input>	
+			<input name="name" type="text" className="form-control" placeholder="Your Name" required></input>	
 			
-            <input name="email" type="email" class="form-control" placeholder="Your Email" required></input>
+            <input name="email" type="email" className="form-control" placeholder="Your Email" required></input>
 		
-            <input name="message" class="form-control" placeholder="Message" rows="6" required></input>
+            <input name="message" className="form-control" placeholder="Message" rows="6" required></input>
 		
-			<input type="submit" class="form-control submit" value="SEND MESSAGE"></input>
+			<input type="submit" className="form-control submit" value="SEND MESSAGE"></input>
 			
 
             </form>
