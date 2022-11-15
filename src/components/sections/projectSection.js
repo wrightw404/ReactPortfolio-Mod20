@@ -1,8 +1,9 @@
 import React from 'react';
 import fuel from '../../assets/img/fuellogo.png';
 import btat from '../../assets/img/beenthereatethat.png';
-import style from '../../assets/img/styleSheet.jpg';
+//import style from '../../assets/img/styleSheet.jpg';
 import noSQL from '../../assets/img/noSQL.png';
+import fe from '../../assets/img/fantastic-ecommerce.png';
 
 
 const ProjectSection = () => {
@@ -36,8 +37,9 @@ const ProjectSection = () => {
                         <a className="repo" href='https://github.com/ddangeles/BeenThere-AteThat' target="_blank" rel="noreferrer">GitHub Repository</a>
                         </p>
                     
-                  <a href={style} rel="noreferrer" target="_blank"><img className="popup" src={style} alt="portfolio project"></img></a>
-                    <p className="summary">View the style sheet for this site</p>
+                  <a href='https://fantastic-ecomerce.vercel.app/' rel="noreferrer" target="_blank"><img className="popup" src={fe} alt="Fantastic E-Commerce"></img></a>
+                    <p className="summary">Fantastic E-Commerce</p>
+                    <a className="repo" href='https://github.com/hale-bopp97/fantastic_ecomerce' target="_blank" rel="noreferrer">GitHub Repository</a>
                     
                     
                 </div>	
