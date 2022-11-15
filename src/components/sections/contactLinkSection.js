@@ -1,6 +1,6 @@
 import React from 'react';
-import github from '../../assets/img/GitHubLogo1.png';
-import linkedin from '../../assets/img/linkedinlogo.png';
+import github from '../../assets/img/GitHubLogo.png';
+import linkedin from '../../assets/img/linkedinLogo.png';
 
 const ContactLinkSection = () => {
     return (

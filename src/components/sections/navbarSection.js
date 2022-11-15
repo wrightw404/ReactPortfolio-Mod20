@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../assets/img/oldlogo.jpg';
+import logo from '../../assets/img/cLogo.png';
 
 const NavBarSection = () => {
     return (
