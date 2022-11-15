@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://wrightw404.github.io/ReactPortfolio-Mod20",
+  "homepage": "https://wrightw404.github.io/ReactPortfolio-Mod20/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -42,7 +42,6 @@
   },
   "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wrightw404/ReactPortfolio-Mod20.git"
